@@ -87,15 +87,3 @@ Setelah notebook dijalankan dalam `MODE = "penuh"`, skrip secara otomatis mengha
    * `MODE = "uji"` — Uji cepat alur kode (1 *backbone*, 1 *seed*, 1 *epoch*, 500 data latih)[cite: 1].
    * `MODE = "penuh"` — Menjalankan matriks eksperimen lengkap (27 *run* + *baseline* + uji sensitivitas LR + pengukuran inferensi + visualisasi)[cite: 1].
 4. Jalankan seluruh sel dari atas ke bawah (**Runtime > Run all**)[cite: 1].
-
-### Menjalankan Secara Lokal
-```bash
-# 1. Clone repositori
-git clone [https://github.com/](https://github.com/)<username>/<nama-repo>.git
-cd <nama-repo>
-
-# 2. Instal dependensi utama
-pip install torch transformers scikit-learn pandas matplotlib jupyter
-
-# 3. Buka notebook
-jupyter notebook
