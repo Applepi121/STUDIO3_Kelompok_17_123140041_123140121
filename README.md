@@ -2,6 +2,7 @@
 
 # Studio Proyek 3: Fine-Tuning Transformer Pretrained untuk Klasifikasi Sentimen (SmSA)
 
+Link Colab: https://colab.research.google.com/drive/14rK0rM3ozPZGoYe4OfuhpnC4sc87EL9g?usp=sharing
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14rK0rM3ozPZGoYe4OfuhpnC4sc87EL9g?usp=sharing)
 
 Repositori ini berisi kode eksperimen, matriks evaluasi, dan analisis untuk **Studio Proyek 3** pada mata kuliah **Pembelajaran Mendalam (IF25-40401)**, Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA).
